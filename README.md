@@ -5,6 +5,7 @@ Esta es mi primera página web que la termino, aunque no es la mejor del mundo p
 No se me ocurria de que tema hacer una página así que simplemente le llame Lorem por que la mayoria está escrito con Lorems.
 
 #CARACTERÍSTICA
+
 La página web contiene:
 - Un header
 - Un body
